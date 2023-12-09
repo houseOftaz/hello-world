@@ -1,14 +1,9 @@
-# hello-world
-*first repo äbvēəslē*
-## Prensenting myself
-1. I like ordered lists
-2. Want to learn and work webdev things
-3. Ready to work
-	```
-{
-  "firstName": "house",
-  "lastName": "Oftaz",
-  "age": 32
-}
-```
+👋 Hello World! I'm Ana,
+🌐 Aspiring Web Developer | Passionate Learner
 
+🚀 On a mission to master the art of web development!
+💻 Constantly exploring new technologies and frameworks.
+📚 Learning enthusiast excited about the endless possibilities of the web.
+
+🔧 HTML | CSS | JavaScript | React | Node.js
+🌟 Let's connect, collaborate, and create amazing things together! ✨
